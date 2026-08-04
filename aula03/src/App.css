@@ -1,0 +1,27 @@
+body{
+margin: 0;
+padding: 0;
+background-color: whitesmoke;
+}
+
+h1{
+background-color: rgb(66, 55, 28);
+color: white;
+text-align: center;
+padding: 20px;
+margin: 0;
+margin-bottom: 20px;
+}
+
+.conteudo{
+margin: 0 auto;
+padding: 30px;
+max-width: 500px;
+
+background-color: rgb(236, 223, 202);
+border-radius: 12px;
+box-shadow: 0 10px 10px gray;
+
+}
+
+
