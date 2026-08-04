@@ -5,7 +5,7 @@ background-color: whitesmoke;
 }
 
 h1{
-background-color: rgb(66, 55, 28);
+background-color: #3D2412;
 color: white;
 text-align: center;
 padding: 20px;
@@ -21,7 +21,42 @@ max-width: 500px;
 background-color: rgb(236, 223, 202);
 border-radius: 12px;
 box-shadow: 0 10px 10px gray;
+}
 
+.conteudo ul
+{
+padding-left: 20px;
+}
+
+.conteudo li
+{
+    margin: 6px 0;
+}
+
+.conteudo a
+{
+color: brown;
+text-decoration: none;
+font-weight: 500;
 }
 
 
+.conteudo a:hover
+{
+    text-decoration: underline;
+}
+
+.conteudo img
+{
+width: 100%;
+border-radius: 10px;
+margin-bottom: 20px;
+object-fit: cover;
+}
+
+.conteudo p{
+font-size: 16px;
+line-height: 1.6;
+color: gray;
+text-align: justify;
+}
