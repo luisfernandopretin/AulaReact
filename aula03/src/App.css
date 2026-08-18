@@ -13,14 +13,28 @@ margin: 0;
 margin-bottom: 20px;
 }
 
-.conteudo{
-margin: 0 auto;
+li{
+    color: #3D2412;
+    font-size: 18px;
+}
+
+.conteudo
+{
+margin: 20px auto;
 padding: 30px;
 max-width: 500px;
 
 background-color: rgb(236, 223, 202);
 border-radius: 12px;
 box-shadow: 0 10px 10px gray;
+}
+
+
+h3
+{
+    color: #3D2412;
+    font-size: 25px;
+    text-align: center;
 }
 
 .conteudo ul
@@ -57,6 +71,6 @@ object-fit: cover;
 .conteudo p{
 font-size: 16px;
 line-height: 1.6;
-color: gray;
+color: rgb(34, 26, 26);
 text-align: justify;
 }
