@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 export default function Para() {
     return (
         <div>
-            <h1>Estado do Para</h1>
+            <h1>Estado do Pará</h1>
             <div className="conteudo">
 
 

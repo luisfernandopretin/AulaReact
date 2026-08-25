@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 export default function Parana() {
     return (
         <div>
-            <h1>Estado do Parana</h1>
+            <h1>Estado do Paraná</h1>
             <div className="conteudo">
 
 
