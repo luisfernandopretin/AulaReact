@@ -23,8 +23,7 @@ export default function Home()
                     <li><Link to="/exercicio2">Exercício 2</Link></li>
                 </ul>
 
-            </div>
-            
+            </div>            
         </div>
     );
 }
